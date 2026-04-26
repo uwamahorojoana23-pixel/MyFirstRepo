@@ -1,0 +1,1 @@
+In this course so far, I have learned how to use Git for version control, how to create branches, and how to collaborate with others using pull requests on GitHub.
