@@ -1,1 +1,1 @@
-In this course so far, I have learned how to use Git for version control, how to create branches, and how to collaborate with others using pull requests on GitHub.
+What I have learned from this course: So far, I have learned the basics of Git version control, how to manage repositories, and the importance of collaboration using branches and pull requests.
