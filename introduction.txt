@@ -1,0 +1,3 @@
+Brief Introduction About Myself
+
+My name is Joana, and I am excited to begin my software engineering journey with ALX. I look forward to building impactful solutions.
