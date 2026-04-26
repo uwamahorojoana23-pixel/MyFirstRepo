@@ -1,5 +1,4 @@
 My Personal and Academic Goals for Next Year
-
-1. To master C and Python programming.
-2. To complete all ALX projects on time.
+1. To master software engineering concepts and tools.
+2. To complete all ALX projects with high scores.
 3. To build a professional portfolio on GitHub.
